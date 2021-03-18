@@ -1,6 +1,5 @@
 package ibm.com.Bugtracking;
 
-
 public class BugStatus {
 	public STATUS status;
 
